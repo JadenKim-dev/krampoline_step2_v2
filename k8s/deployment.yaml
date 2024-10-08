@@ -15,4 +15,4 @@ spec:
       containers:
         - name: frontend
           # 여러분의 image 주소를 입력해주세요.
-          image: krmp-d2hub-idock.9rum.cc/dev-test/repo_ef3f7c1512c7
+          image: krmp-d2hub-idock.9rum.cc/dev-test/repo_ccca3edda52d
